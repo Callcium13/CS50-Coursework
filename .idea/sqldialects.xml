@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/Week_7_SQL/Fiftyville/log.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Week_7_SQL/Fiftyville/log.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Week_7_SQL/Movies/1.sql" dialect="SQLite" />
     <file url="PROJECT" dialect="SQLite" />
   </component>
 </project>
