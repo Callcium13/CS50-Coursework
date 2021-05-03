@@ -1,3 +1,4 @@
+--find all harry potter movies
 DROP VIEW IF EXISTS [harry potter];
 CREATE VIEW [harry potter] AS
 SELECT title,year FROM movies
